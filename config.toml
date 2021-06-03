@@ -2,7 +2,6 @@
 baseurl = "https://examplesite.org"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
-theme = "parsa-hugo"
 summaryLength = "10"
 paginate = 6
 # google analytics
